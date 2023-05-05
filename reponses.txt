@@ -1,0 +1,5 @@
+a)git pull automatise la mise à jour es données tandis que git fetch 
+permet e garder son repertoire de travail à jour et de contrôler le moment où l'on souhaite fusionner .
+b)on utilise la commande git reset
+c)la commande git push --delete permet de le faire
+d) la commande git log permet de voir les modifications 
